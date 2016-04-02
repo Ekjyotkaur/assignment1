@@ -1,0 +1,8 @@
+prolist\model\User$Role.class
+prolist\model\AuditLog.class
+prolist\model\Proposal$Cohort.class
+prolist\model\AuditLog$Changes.class
+prolist\model\SeriablizableEntity.class
+prolist\model\User.class
+prolist\model\Proposal$ThesisType.class
+prolist\model\Proposal.class
